@@ -14,6 +14,7 @@
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
     extensions = [
       "vue.volar"
+      "bradlc.vscode-tailwindcss"
     ];
     workspace = {
       # Runs when a workspace is first created with this `dev.nix` file
